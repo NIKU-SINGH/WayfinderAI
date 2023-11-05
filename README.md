@@ -47,8 +47,7 @@ Among our identified customer segments, university students and student backpack
 
 ## Design 🎨
 
-
-![Figma]()
+![Image](https://github.com/NIKU-SINGH/WayfinderAI/blob/main/client/assets/Group%201686550988.png)
 
 ## Presentation Link 🎁
 
