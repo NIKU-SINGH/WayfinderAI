@@ -1,6 +1,6 @@
 # WayfinderAI
 
-![Wayfinder]()
+![Wayfinder](https://raw.githubusercontent.com/NIKU-SINGH/WayfinderAI/main/client/assets/cover%20(2).png)
 
 WayfinderAI is an innovative mobile application designed to simplify and enhance the travel planning process. The app leverages cutting-edge deep learning technology to create personalized travel plans based on a user's budget, dream destination, travel requirements, and location. It features an integrated booking system for flights, accommodation, and insurance, streamlining the entire travel planning process. WayfinderAI also offers an automated budget estimator to help users accurately estimate their travel costs. The app ensures access to up-to-date information about destinations and travel-related services through data harvesting and API scraping.
 
@@ -43,7 +43,7 @@ Among our identified customer segments, university students and student backpack
 
 ## How we built it ⚙️
 
-![Archi]()
+![Archi](https://raw.githubusercontent.com/NIKU-SINGH/WayfinderAI/main/client/assets/Group%201686550987%20(1).png)
 
 ## Design 🎨
 
