@@ -21,7 +21,7 @@ const SpendScreen = () => {
       </View>
       <View style={styles.tableContainer}>
         <View style={styles.container2}>
-          <Text style={styles.subHeading3}>Category</Text>
+          <Text style={styles.subHeading3}>Category </Text>
           <Text style={styles.subHeading3}>Expected Price</Text>
         </View>
         <ExpenseTable />

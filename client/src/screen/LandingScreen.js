@@ -21,11 +21,6 @@ const LandingScreen = () => {
       />
       <View style={styles.subContainer}>
         <Text style={styles.heading}>Your Path to Effortless Travel Planning and Savings</Text>
-        {/* <Text style={styles.subHeading}>
-          Your Passport to Adventure. Navigate uncharted territories, forge
-          unforgettable memories, and meet fellow explorers on a journey of a
-          lifetime. Explore, connect, and blaze your own trail with TrekTrail!"
-        </Text> */}
         <Button title="Get Started" onPress={handleGetStarted} />
       </View>
     </View>
