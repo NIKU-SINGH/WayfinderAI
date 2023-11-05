@@ -1,6 +1,6 @@
 # WayfinderAI
 
-![Wayfinder](https://raw.githubusercontent.com/NIKU-SINGH/WayfinderAI/main/client/assets/cover%20(2).png)
+![Wayfinder](<https://raw.githubusercontent.com/NIKU-SINGH/WayfinderAI/main/client/assets/cover%20(2).png>)
 
 WayfinderAI is an innovative mobile application designed to simplify and enhance the travel planning process. The app leverages cutting-edge deep learning technology to create personalized travel plans based on a user's budget, dream destination, travel requirements, and location. It features an integrated booking system for flights, accommodation, and insurance, streamlining the entire travel planning process. WayfinderAI also offers an automated budget estimator to help users accurately estimate their travel costs. The app ensures access to up-to-date information about destinations and travel-related services through data harvesting and API scraping.
 
@@ -9,7 +9,6 @@ WayfinderAI's unique selling proposition includes facilitating the discovery of 
 ## Built at SacHacks V 2023 💻
 
 ![Sackhacks logo](https://d112y698adiu2z.cloudfront.net/photos/production/challenge_photos/002/649/603/datas/full_width.png)
-
 
 ## Inspiration 💡
 
@@ -43,7 +42,7 @@ Among our identified customer segments, university students and student backpack
 
 ## How we built it ⚙️
 
-![Archi](https://raw.githubusercontent.com/NIKU-SINGH/WayfinderAI/main/client/assets/Group%201686550987%20(1).png)
+![Archi](<https://raw.githubusercontent.com/NIKU-SINGH/WayfinderAI/main/client/assets/Group%201686550987%20(1).png>)
 
 ## Design 🎨
 
@@ -53,18 +52,32 @@ Among our identified customer segments, university students and student backpack
 
 [Link to My Our Canva Presentation](https://www.canva.com/design/DAFzUc-n6OQ/RnmBlQl1L0PcfCrXkuvOUw/edit?utm_content=DAFzUc-n6OQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-
 ## Video Demo 📽️
 
-https://www.youtube.com/watch?v=xaGBtfvd8iQ
+<div style="position:relative;width:fit-content;height:fit-content;">
+            <a style="position:absolute;top:20px;right:1rem;opacity:0.8;" href="https://clipchamp.com/watch/NRO6OEkxxOm?utm_source=embed&utm_medium=embed&utm_campaign=watch">
+                <img loading="lazy" style="height:22px;" src="https://clipchamp.com/e.svg" alt="Made with Clipchamp" />
+            </a>
+            <iframe allow="autoplay;" allowfullscreen style="border:none" src="https://clipchamp.com/watch/NRO6OEkxxOm/embed" width="640" height="360"></iframe>
+            </div>
 
-<!-- ## Challenges we ran into 😤
+## Challenges we ran into 😤
+
+In this section, you can briefly describe any challenges or obstacles your team faced while developing WayfinderAI. It's important to showcase your problem-solving skills and determination in overcoming these challenges.
 
 ## Accomplishments that we're proud of ✨
 
+Highlight the key achievements and milestones that your team has reached during the development of WayfinderAI. This could include completing certain features, reaching a significant user base, or winning awards.
+
 ## What we learned 🙌
 
-## What's next for WayFinder 🚀 -->
+Share the lessons and insights your team gained throughout the development process. It could be technical knowledge, market understanding, or teamwork experiences.
+
+## What's next for WayFinder 🚀
+
+Discuss the future plans and developments for WayfinderAI. This could include new features, expansion to different platforms, marketing strategies, or any other exciting directions you plan to take.
+
+Remember to provide specific details and updates in each of these sections to give your readers a clear picture of the project's journey and future prospects.
 
 ## References
 
